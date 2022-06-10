@@ -1,0 +1,8 @@
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\obj\Debug\lab2_2.csproj.AssemblyReference.cache
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\obj\Debug\lab2_2.csproj.SuggestedBindingRedirects.cache
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\obj\Debug\lab2_2.csproj.CoreCompileInputs.cache
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\bin\Debug\lab2_2.exe.config
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\bin\Debug\lab2_2.exe
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\bin\Debug\lab2_2.pdb
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\obj\Debug\lab2_2.exe
+D:\Университет\1 курс\2 cеместр\ОП\лаба2\lab2_2\lab2_2\lab2_2\obj\Debug\lab2_2.pdb
